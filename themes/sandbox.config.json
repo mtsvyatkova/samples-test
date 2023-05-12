@@ -1,5 +1,6 @@
 {
   "infiniteLoopProtection": false,
   "hardReloadOnChange": false,
-  "view": "browser"
+  "view": "browser",
+  "node": "^16.19.0"
 }
