@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "This project provides example of Themes using Apex Grid",
   "main": "src/index.ts",
+  "engines": {
+    "node": "^14.21.0 || >= 16.19.0"
+  },
   "scripts": {
     "start": "vite",
     "build": "tsc && vite build"
